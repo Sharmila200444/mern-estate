@@ -5,7 +5,10 @@ import Signin from './pages/Signin';
 import About from './pages/About';
 import Profile from './pages/Profile';
 <<<<<<< HEAD
+<<<<<<< HEAD
 import Header from './Components/Header';
+=======
+>>>>>>> 49d0357515e6c8b739240a69b184429f4a1c51c1
 =======
 >>>>>>> 49d0357515e6c8b739240a69b184429f4a1c51c1
 
@@ -13,7 +16,10 @@ export default function App() {
   return (
     <BrowserRouter>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <Header/>
+=======
+>>>>>>> 49d0357515e6c8b739240a69b184429f4a1c51c1
 =======
 >>>>>>> 49d0357515e6c8b739240a69b184429f4a1c51c1
     <Routes>
